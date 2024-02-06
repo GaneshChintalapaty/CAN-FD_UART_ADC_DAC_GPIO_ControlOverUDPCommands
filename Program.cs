@@ -16,7 +16,7 @@ namespace CAN_FD_UART_ADC_DAC_GPIO_ControlOverUDPCommands
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CUADGC());
         }
     }
 }

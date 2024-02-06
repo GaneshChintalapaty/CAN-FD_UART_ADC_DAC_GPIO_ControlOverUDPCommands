@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace CAN_FD_UART_ADC_DAC_GPIO_ControlOverUDPCommands
 {
-    public partial class Form1 : Form
+    public partial class CUADGC : Form
     {
-        public Form1()
+        public CUADGC()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
