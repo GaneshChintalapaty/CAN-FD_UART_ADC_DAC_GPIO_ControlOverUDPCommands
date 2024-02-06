@@ -16,5 +16,10 @@ namespace CAN_FD_UART_ADC_DAC_GPIO_ControlOverUDPCommands
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
