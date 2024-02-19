@@ -218,6 +218,7 @@
             this.MaximizeBox = false;
             this.Name = "CUADGC";
             this.Text = "CAN-FD UART ADC DAC GPIO Control over UDP Commands";
+            this.Load += new System.EventHandler(this.CUADGC_GUI_Load);
             ((System.ComponentModel.ISupportInitialize)(this.controlDAC1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.controlDAC2)).EndInit();
             this.ResumeLayout(false);
