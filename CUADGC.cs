@@ -25,7 +25,7 @@ namespace CAN_FD_UART_ADC_DAC_GPIO_ControlOverUDPCommands
         /// </summary>
 
         //Static int variables
-        public static int port = 9876;  //Port number for this form
+        public static int port = 9760;  //Port number for this form
         //End Static int variables
 
 
